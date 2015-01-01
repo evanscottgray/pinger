@@ -29,6 +29,8 @@ gem 'haml'
 gem 'haml-rails'
 gem 'annotate', '~> 2.6.5'
 gem 'resque'
+gem 'bootstrap-sass'
+gem 'bootstrap_form'
 
 
 # Use ActiveModel has_secure_password
